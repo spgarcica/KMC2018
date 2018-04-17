@@ -40,6 +40,14 @@ To plot the Energy and polarization graphics execute:
 make plot
 ```
 
+### Clean
+
+To clean the data generated on the compilation execute:
+
+```
+make clean
+```
+
 ## Author
 
 * Sergio P. G.
