@@ -32,6 +32,11 @@ Modify the file **param.dat** to define the parameters of the simulation, then e
 make datum
 ```
 
+Two files are generated:
+
+** traj.xyz contains the trajectory in a xyz format to visualize it with wxMacmolplt or vmd
+** ener.dat contains the different energies of the system in every time step
+
 ### Data plot
 
 To plot the Energy and polarization graphics execute:
