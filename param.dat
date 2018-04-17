@@ -1,0 +1,8 @@
+20            Box Lenght
+0.050           E Potential
+1.0            W Potential
+0.500          Temperature (kbT Units)
+0              Stabilization Steps
+1000000          MonteCarlo Steps
+0              Snapshot Every (0 only one final snapshot) xyz Format (vmd)
+2              Seed
