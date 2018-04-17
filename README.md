@@ -34,8 +34,8 @@ make datum
 
 Two files are generated:
 
-** traj.xyz contains the trajectory in a xyz format to visualize it with wxMacmolplt or vmd
-** ener.dat contains the different energies of the system in every time step
+* ** traj.xyz contains the trajectory in a xyz format to visualize it with wxMacmolplt or vmd **
+* ** ener.dat contains the different energies of the system in every time step **
 
 ### Data plot
 
